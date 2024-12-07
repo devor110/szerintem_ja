@@ -1,0 +1,6 @@
+# Blacklist all folders/files
+/**
+
+# Whitelist
+!.gitignore
+!/Szerintem_ja.*
